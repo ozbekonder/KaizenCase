@@ -1,0 +1,13 @@
+C:\Users\excalibur\source\repos\KaizenCase\KaizenCase\bin\Debug\KaizenCase.exe.config
+C:\Users\excalibur\source\repos\KaizenCase\KaizenCase\bin\Debug\KaizenCase.exe
+C:\Users\excalibur\source\repos\KaizenCase\KaizenCase\bin\Debug\KaizenCase.pdb
+C:\Users\excalibur\source\repos\KaizenCase\KaizenCase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\excalibur\source\repos\KaizenCase\KaizenCase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\excalibur\source\repos\KaizenCase\KaizenCase\obj\Debug\KaizenCase.Form1.resources
+C:\Users\excalibur\source\repos\KaizenCase\KaizenCase\obj\Debug\KaizenCase.Properties.Resources.resources
+C:\Users\excalibur\source\repos\KaizenCase\KaizenCase\obj\Debug\KaizenCase.csproj.GenerateResource.cache
+C:\Users\excalibur\source\repos\KaizenCase\KaizenCase\obj\Debug\KaizenCase.csproj.CoreCompileInputs.cache
+C:\Users\excalibur\source\repos\KaizenCase\KaizenCase\obj\Debug\KaizenCase.csproj.CopyComplete
+C:\Users\excalibur\source\repos\KaizenCase\KaizenCase\obj\Debug\KaizenCase.exe
+C:\Users\excalibur\source\repos\KaizenCase\KaizenCase\obj\Debug\KaizenCase.pdb
+C:\Users\excalibur\source\repos\KaizenCase\KaizenCase\obj\Debug\KaizenCase.csprojAssemblyReference.cache
